@@ -1,16 +1,16 @@
 # CH32V00X DMA ST7789 LCD Display
 
 ## ST7789 DMA Library for CH32V00X
-Compiled with MounRiverStudio 2.10
-Tested with CH32V006E8R6 
-SPI Remapped :
+Compiled with MounRiverStudio 2.10<br>
+Tested with CH32V006E8R6 <br>
+SPI Remapped :<br>
 
- PA4  BL
- PA5  CS
- PA1  DC
- PA0  RST
- PD2  SCK
- PD3  MOSI
+ PA4  BL<br>
+ PA5  CS<br>
+ PA1  DC<br>
+ PA0  RST<br>
+ PD2  SCK<br>
+ PD3  MOSI<br>
 
 
 Library supports C font array created by GLCD Font Creator by MikroElektronika.<br>
